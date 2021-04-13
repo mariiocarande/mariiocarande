@@ -12,11 +12,10 @@
 - 📚 I'm a system analyst student at [UTN FRRo](https://www.frro.utn.edu.ar/)
 - 👨‍💻 All of my projects are available at [https://github.com/mariiocarande](https://github.com/mariiocarande)
 - 📫 How to reach me **mdc.mariio@gmail.com**
-- ⚡ Hoobies **Gaming**
+- ⚡ Hoobies **Gaming and Run**
 
 <div align="right">
-    <img align="right" width="500px" src="https://media.giphy.com/media/9X25de3SwaZqg/giphy.gif" />
-    <img  align="right" src="https://weather-icon.journeyad.repl.co/@shenzhen?v=1">
+    <img align="right" width="300px" src="https://media.giphy.com/media/9X25de3SwaZqg/giphy.gif" />
 </div>
 
 
