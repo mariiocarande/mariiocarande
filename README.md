@@ -10,7 +10,8 @@
 - 🌱 I’m currently learning and working with **React**
 - 📚 I'm a system analyst student at [UTN FRRo](https://www.frro.utn.edu.ar/)
 - 👨‍💻 All of my projects are available at [Github](https://github.com/mariiocarande)
-- 📫 How to reach me **mdc.mariio@gmail.com** or you can check my site [MarioCarandeScarafia](https://mariocarandescarafia.netlify.app)
+- 📫 How to reach me **mdc.mariio@gmail.com**
+- 👀 You can check my site [MarioCarandeScarafia](https://mariocarandescarafia.netlify.app)
 - ⚡ Hoobies **Gaming and Run**
 
 <div align="right">
