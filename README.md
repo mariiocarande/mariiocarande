@@ -1,8 +1,5 @@
-<div align="center">
-<img src="https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif" align="center"/>
-</div>
-
-<h1 align="center">I'm Mario Carande Scarafía
+<h1 align="center">
+    I'm Mario Carande Scarafía
     <img width="100px" src="https://i.pinimg.com/originals/6e/a5/fd/6ea5fd598477f4eb62253fc3004039ca.gif" />
 </h1>
 
@@ -45,9 +42,6 @@
 ### Stats
 
 <div align="left">
-    <p>
-    <img src="https://visitor-badge.glitch.me/badge?page_id=mariiocarande.mariiocarande" alt="visitors">
-    </p>
     <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=mariiocarande&theme=dark&show_icons=true">
     </p>
