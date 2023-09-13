@@ -38,11 +38,3 @@
   <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
   </a>
 </div>
-
-### Stats
-
-<div align="left">
-    <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=mariiocarande&theme=dark&show_icons=true">
-    </p>
-</div>
