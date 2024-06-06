@@ -21,6 +21,7 @@
   <a href="https://github.com/mariiocarande" target="_blank">
     <img src="https://skillicons.dev/icons?i=github&theme=light" />
   </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/mario-carande-scarafia/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=light" />
   </a>
