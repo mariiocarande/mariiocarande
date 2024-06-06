@@ -9,10 +9,6 @@
 - 👀 You can check my site [MarioCarandeScarafia](https://mariocarandescarafia.netlify.app)
 - ⚡ Hoobies **Gaming and Run**
 
-<div align="right">
-    <img align="right" width="300px" src="https://media.giphy.com/media/9X25de3SwaZqg/giphy.gif" />
-</div>
-
 ### Some Tools I Use
 
 <p align="left">
