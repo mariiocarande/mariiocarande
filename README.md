@@ -6,7 +6,7 @@
 - 🔭 Working in [The Blue Box](https://www.thebluebox.dev/)
 - 🌱 I’m currently working with **React** and **Nextjs**
 - 👨‍💻 All of my projects are available at [Github](https://github.com/mariiocarande)
-- 👀 Check out my personal site at [Portfolio](https://portfolio-marios-projects-2b8df8ba.vercel.app/) to learn more about me and my projects.
+- 👀 Check out my personal site at [Portfolio](https://portfolio-marios-projects-2b8df8ba.vercel.app/)
 - ⚡ Hobbies: **Gaming and Running**
 
 ### Some Tools I Use
